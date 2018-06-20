@@ -3,9 +3,10 @@
 
 ----
 
-لاختبار البرنامج قم بتحميل ملف 
+لاختبار البرنامج قم بتحميل هذا الملف 
 
-app-debug.apk
+https://github.com/Alsaraha/Important_Information/raw/master/App_Files/app/build/outputs/apk/debug/app-debug.apk
+----
 
 ----
 
